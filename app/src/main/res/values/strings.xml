@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABND-SingleScreenApp</string>
+    <string name="business_name">Shore Coffee</string>
+    <string name="address">138 Beans St. Columbia, SC</string>
+    <string name="phone" translatable="false">240-764-897</string>
+    <string name="image_content_description">Shore Coffee Image</string>
+</resources>
